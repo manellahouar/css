@@ -1,0 +1,44 @@
+
+h2{
+    width: 100;
+    color: #000;
+}
+
+section {
+    width: 500px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.icon_css{
+    display: block;
+}
+a:hover{
+    color: crimson;
+    font-family: 'Times New Roman';
+    font-size: medium;
+    font-style: italic;
+}
+
+body{
+    background-image: url(4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav{
+    font-family: 'Roboto', sans-serif;
+}
